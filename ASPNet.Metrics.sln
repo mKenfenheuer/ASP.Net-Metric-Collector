@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPNet.Metrics", "ASPNet.Metrics\ASPNet.Metrics.csproj", "{D9D51118-0992-4444-A017-13E00DC3D30F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPNet.Metrics.Example", "ASPNet.Metrics.Example\ASPNet.Metrics.Example.csproj", "{E70F3E78-C7FC-434F-BAA2-1E2F47553D27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9D51118-0992-4444-A017-13E00DC3D30F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D51118-0992-4444-A017-13E00DC3D30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D51118-0992-4444-A017-13E00DC3D30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D51118-0992-4444-A017-13E00DC3D30F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E70F3E78-C7FC-434F-BAA2-1E2F47553D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E70F3E78-C7FC-434F-BAA2-1E2F47553D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E70F3E78-C7FC-434F-BAA2-1E2F47553D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E70F3E78-C7FC-434F-BAA2-1E2F47553D27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A65CF18B-6772-4E3E-8083-E76F1927F616}
+	EndGlobalSection
+EndGlobal
